@@ -21,8 +21,16 @@ public class Main {
 		}
 		System.out.println("My First Commit");
 		
+
 		for (int i = 0; i < 3; i++) {
 			System.out.println("In Master");
 		}
+
+		for (int i = 0; i < 2; i++) {
+			System.out.println("In Branch");
+		}
+		
+		System.out.println("Changes are saved");
+
 	}
 }
