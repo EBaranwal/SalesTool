@@ -13,5 +13,12 @@ public class Main {
 		
 		
 		System.out.println("Test 1");
+		
+		for (int i = 0; i < 5; i++) {
+			System.out.println("Hello World!!");
+			if(i==3)
+				break;
+		}
+		System.out.println("Printed statement");
 	}
 }
