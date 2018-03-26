@@ -20,7 +20,6 @@ public class Main {
 				break;
 		}
 		System.out.println("Printed statement");
-		System.out.println("hello");
 		
 	}
 }
