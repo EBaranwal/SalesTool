@@ -19,7 +19,6 @@ public class Main {
 			if(i==3)
 				break;
 		}
-		System.out.println("Printed statement");
-		
+		System.out.println("Committing Master");
 	}
 }
