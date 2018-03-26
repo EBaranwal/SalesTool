@@ -19,6 +19,5 @@ public class Main {
 			if(i==3)
 				break;
 		}
-		System.out.println("Committing Master");
 	}
 }
