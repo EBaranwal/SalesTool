@@ -20,5 +20,9 @@ public class Main {
 				break;
 		}
 		System.out.println("My First Commit");
+		
+		for (int i = 0; i < 2; i++) {
+			System.out.println("In Branch");
+		}
 	}
 }
